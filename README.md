@@ -1,1 +1,3 @@
-# translation-management
+# 翻译与本地化项目管理
+
+本部分将讲授翻译项目管理的常见任务
