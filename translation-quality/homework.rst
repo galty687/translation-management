@@ -20,7 +20,7 @@
 
 作业要求：
 
-#. 阅读 `DQF <http://dqf.taus.net>`_ 的使用说明，并注册相应账号
+#. 阅读 `DQF <http://dqf.taus.net>`_ 的使用说明，并注册相应账号。
 #. 每位同学需要使用该平台评价200-300个句段，最后点击 Download Findings， 并提交评价结果的xlsx。
 #. 也可以在SDL Trados中完成评价，trados dqf的插件可在cattp中下载。
 
