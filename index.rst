@@ -65,6 +65,12 @@
     :caption: 第七章：翻译供应商管理
 
     
+.. toctree::
+    :maxdepth:1
+    :caption: 课程综合实践
+
+    capstone/ucc.rst
+
 
 
     
